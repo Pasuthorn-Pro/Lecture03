@@ -1,4 +1,4 @@
-print("Select Operation 1.(+) 2.(-) 3.(*) 4.(/)")
+print("Select Operation 1.(+) 2.(-) 3.(*) 4.(/) -")
 Operation = int(input("Select"))
 
 if Operation <= 4 and Operation > 0:
