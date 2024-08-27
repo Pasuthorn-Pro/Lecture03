@@ -14,9 +14,8 @@ Conditionals and Control Flow
      Single Condition: 'If condition:'
 
      Multiple Condition: 'If condition1: elif condition2: else:'
-     Syntax: การเว้นวรรคและโครงสร้างที่ถูกต้องมีความสำคัญต่อความสามารถในการอ่านและการทำงาน
-
      
+     Syntax: การเว้นวรรคและโครงสร้างที่ถูกต้องมีความสำคัญต่อความสามารถในการอ่านและการทำงาน
 
      Boolean: ตรรกะ
 
