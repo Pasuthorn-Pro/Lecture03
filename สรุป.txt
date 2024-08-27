@@ -1,0 +1,29 @@
+Conditionals and Control Flow
+    Key concept
+     If Statement: ทำการรันโค้ดบล็อกเมื่อเงื่อนไขที่ระบุเป็นจริง
+     Elif Statement: อนุญาตให้ตรวจสอบเงื่อนไขหลาย ๆ เงื่อนไข หากเงื่อนไขก่อนหน้านั้นเป็นเท็จ
+     Else Statement: ทำการรันโค้ดบล็อกเมื่อไม่มีเงื่อนไขใดที่เป็นจริง
+        โครงสร้างของ If/Elif/Else
+         if condition:
+            โค้ดที่จะทำงานเมื่อเงื่อนไข If เป็นจริง
+         elif condition2:
+            โค้ดที่จะทำงานเมื่อเงื่อนไขที่ 2 เป็นจริง
+         else:
+            โค้ดจะทำงานก็ต่อเมื่อเงื่อนไขด้านบนเป็นเท็จ
+
+     Single Condition: 'If condition:'
+
+     Multiple Condition: 'If condition1: elif condition2: else:'
+     Syntax: การเว้นวรรคและโครงสร้างที่ถูกต้องมีความสำคัญต่อความสามารถในการอ่านและการทำงาน
+
+     
+
+     Boolean: ตรรกะ
+
+     Nested comdition: การซ้อนเงื่อนไข
+
+     Flow Control: กำหนดเส้นทางการทำงานของโปรแกรม
+
+     Default action: else จะทำงานเมื่อไม่มีเงื่อนไขใดเป็นจริง
+
+     Clarity: ทำให้โค้ดอ่านง่ายขึ้น
